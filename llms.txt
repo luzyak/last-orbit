@@ -1,0 +1,40 @@
+# Last Orbit: Space Defense
+
+> Free mobile tower-defense strategy game (iOS, Android beta) by independent developer Yigit Bayram. The player commands one Command Ship and a field of mines the enemy cannot see, against endless waves of seven alien civilisations and the Heirs. Released 9 November 2026. Languages: English, Turkish.
+
+- App Store: https://apps.apple.com/app/last-orbit-space-defense/id6830081160
+- Support and privacy: https://luzyak.github.io/lastorbit-support/
+- Contact: bayramelmaios@gmail.com
+
+## Pages
+
+- https://luzyak.github.io/lastorbit/
+- https://luzyak.github.io/lastorbit/factions/
+- https://luzyak.github.io/lastorbit/factions/veyra.html
+- https://luzyak.github.io/lastorbit/factions/nul.html
+- https://luzyak.github.io/lastorbit/factions/nivara.html
+- https://luzyak.github.io/lastorbit/factions/thalor.html
+- https://luzyak.github.io/lastorbit/factions/khar.html
+- https://luzyak.github.io/lastorbit/factions/auralis.html
+- https://luzyak.github.io/lastorbit/factions/korvath.html
+- https://luzyak.github.io/lastorbit/factions/heirs.html
+- https://luzyak.github.io/lastorbit/fleet.html
+- https://luzyak.github.io/lastorbit/mines.html
+- https://luzyak.github.io/lastorbit/waves.html
+- https://luzyak.github.io/lastorbit/faq.html
+- https://luzyak.github.io/lastorbit/changelog.html
+- https://luzyak.github.io/lastorbit/press.html
+
+## Key facts
+
+- Genre: tower defense / real-time strategy, science fiction; single player; endless waves.
+- Core loop: place invisible mines before each wave, then command escorts (guard, charge, focus fire) in real time.
+- Mines: Contact (wave 1), Meteor (4), EMP (19), Shrapnel (34), Mass (44).
+- Ships: Command Ship, Hunter (6), Bulwark (16), Halo (28), Lance (38), Patch (58), Well (64).
+- Powers: Second Shield, Meteor Rain (13), Black Hole (24), Rift (55).
+- Civilisations in twenty-wave blocks: Veyra 1–20, Nul 21–40, Nivara 41–60, Thalor 61–80, Khar 81–100, Auralis 101–120, Korvath 121–140; the Heirs from 141.
+- Admiral ship every 10th wave, two every 20th; flagship leads waves 15, 25, 35 …
+- Hazards: meteor belt from wave 8 every 9 waves; black hole from wave 22 every 6; rift first on wave 54.
+- World ranking by furthest wave reached; callsign only, no account.
+- Monetisation: optional ads, Remove Ads, cargo packs. Nothing competitive is sold.
+- Age rating 12+. Internet connection required.
