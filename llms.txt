@@ -8,22 +8,22 @@
 
 ## Pages
 
-- https://luzyak.github.io/lastorbit/
-- https://luzyak.github.io/lastorbit/factions/
-- https://luzyak.github.io/lastorbit/factions/veyra.html
-- https://luzyak.github.io/lastorbit/factions/nul.html
-- https://luzyak.github.io/lastorbit/factions/nivara.html
-- https://luzyak.github.io/lastorbit/factions/thalor.html
-- https://luzyak.github.io/lastorbit/factions/khar.html
-- https://luzyak.github.io/lastorbit/factions/auralis.html
-- https://luzyak.github.io/lastorbit/factions/korvath.html
-- https://luzyak.github.io/lastorbit/factions/heirs.html
-- https://luzyak.github.io/lastorbit/fleet.html
-- https://luzyak.github.io/lastorbit/mines.html
-- https://luzyak.github.io/lastorbit/waves.html
-- https://luzyak.github.io/lastorbit/faq.html
-- https://luzyak.github.io/lastorbit/changelog.html
-- https://luzyak.github.io/lastorbit/press.html
+- https://luzyak.github.io/last-orbit/
+- https://luzyak.github.io/last-orbit/factions/
+- https://luzyak.github.io/last-orbit/factions/veyra.html
+- https://luzyak.github.io/last-orbit/factions/nul.html
+- https://luzyak.github.io/last-orbit/factions/nivara.html
+- https://luzyak.github.io/last-orbit/factions/thalor.html
+- https://luzyak.github.io/last-orbit/factions/khar.html
+- https://luzyak.github.io/last-orbit/factions/auralis.html
+- https://luzyak.github.io/last-orbit/factions/korvath.html
+- https://luzyak.github.io/last-orbit/factions/heirs.html
+- https://luzyak.github.io/last-orbit/fleet.html
+- https://luzyak.github.io/last-orbit/mines.html
+- https://luzyak.github.io/last-orbit/waves.html
+- https://luzyak.github.io/last-orbit/faq.html
+- https://luzyak.github.io/last-orbit/changelog.html
+- https://luzyak.github.io/last-orbit/press.html
 
 ## Key facts
 

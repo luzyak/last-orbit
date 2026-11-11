@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Static site generator for luzyak.github.io/lastorbit.
+"""Static site generator for luzyak.github.io/last-orbit.
 
 Every page exists in English (root) and Turkish (/tr/). Content lives in this file so a
 single run rebuilds the whole site; nothing is hand-edited in the output folders.
@@ -8,7 +8,7 @@ Run: python3 build.py
 import json, os, shutil, datetime, html
 
 ROOT = os.path.dirname(os.path.abspath(__file__))
-BASE = "https://luzyak.github.io/lastorbit"
+BASE = "https://luzyak.github.io/last-orbit"
 APPSTORE = "https://apps.apple.com/app/last-orbit-space-defense/id6830081160"
 PLAY_PKG = "com.yigitbayram.lastorbit.game"
 SUPPORT = "https://luzyak.github.io/lastorbit-support/"

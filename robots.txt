@@ -52,4 +52,4 @@ Allow: /
 User-agent: YouBot
 Allow: /
 
-Sitemap: https://luzyak.github.io/lastorbit/sitemap.xml
+Sitemap: https://luzyak.github.io/last-orbit/sitemap.xml
