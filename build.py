@@ -233,7 +233,7 @@ CSS = """
 :root{color-scheme:dark;--bg:#070b14;--panel:#0f1626;--line:#223049;--text:#e6eaf2;--muted:#9aa5b8;--accent:#ffb547;--cyan:#6fd3ff;--green:#7ce0a3;--red:#ff7a7a}
 *{box-sizing:border-box}html{scroll-behavior:smooth}
 body{margin:0;background:var(--bg);color:var(--text);font:17px/1.6 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif}
-a{color:var(--cyan)}img{max-width:100%;height:auto;display:block}
+a{color:var(--cyan)}img,video{max-width:100%;height:auto;display:block}
 header.top{border-bottom:1px solid var(--line);background:rgba(7,11,20,.92);position:sticky;top:0;backdrop-filter:blur(8px);z-index:5}
 .wrap{max-width:980px;margin:0 auto;padding:0 20px}
 nav.main{display:flex;align-items:center;gap:18px;height:60px;flex-wrap:wrap}
@@ -488,7 +488,7 @@ def build_home(lang):
 <p>{pitch}</p>
 {stores(lang, rel)}
 </div>
-<div class="shot"><img src="{rel}assets/shots/10_{lang}.png" alt="{html.escape(SHOT_ALT[lang][10])}" width="600" height="1304"></div>
+<div class="shot"><video src="{rel}assets/trailer.mp4" poster="{rel}assets/trailer_poster.jpg" width="590" height="1278" autoplay muted loop playsinline controls preload="metadata" aria-label="{t(lang, 'Last Orbit gameplay trailer', 'Last Orbit oynanış fragmanı')}"></video></div>
 </section>
 <div class="facts">{''.join(f'<div class="fact"><b>{html.escape(a)}</b><span>{html.escape(b)}</span></div>' for a, b in facts)}</div>
 <h2>{why_h}</h2>
